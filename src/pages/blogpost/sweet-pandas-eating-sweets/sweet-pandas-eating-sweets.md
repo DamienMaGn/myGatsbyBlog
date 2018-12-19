@@ -1,7 +1,7 @@
 ---
 title: "Sweet Pandas Eating Sweets"
 date: "2017-08-10"
-author: "Damien"
+author: "mec"
 ---
 
 Pandas are really sweet.
